@@ -30,9 +30,7 @@ public class CauHinhPheDuyetPageUI {
     public static final String OPTION_PHE_DUYET = "//span[contains(text(),'%s')]/parent::label/parent::mat-radio-button";
     public static final String DROPDOWN_NGUOI_PHE_DUYET = "//span[text()='Chọn người phê duyệt']/parent::div/parent::div/parent::mat-select";
     public static final String SEARCH_NGUOI_PHE_DUYET_TEXTBOX = "//input[@placeholder='Nhập để tìm kiếm']";
-    public static final String LIST_NGUOI_PHE_DUYET = "//mat-option/span";
-    public static final String NGUOI_PHE_DUYET = "//span[contains(text(),'TP00045mmnn4 - Nguyễn Thùy Mẽ')]/following-sibling::div";
-
+    public static final String NGUOI_PHE_DUYET = "//mat-option/span[contains(text(),'&option')]";
 
     public static final String DROPDOWN_NGUOI_NHAN_TB = "//label[contains(text(),'Người nhận thông báo')]/following-sibling::mat-form-field";
     public static final String SEARCH_NGUOI_NHAN_TB_TEXTBOX = "//input[@placeholder='Nhập tên tìm kiếm']";

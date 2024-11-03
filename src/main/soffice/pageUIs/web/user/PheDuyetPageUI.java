@@ -15,7 +15,7 @@ public class PheDuyetPageUI {
     public static final String MESSAGE_TAO_BAN_NHAP_THANH_CONG_TEXT = "//div/mat-option/span";
 
     public static final String DANH_MUC_IN_PHE_DUYET_BY_NAME = "//span[text()='%s']";
-    public static final String DANH_MUC_IN_PHE_DUYET_BY_NAME = "//span[text()='%s']";
+    //ublic static final String DANH_MUC_IN_PHE_DUYET_BY_NAME = "//span[text()='%s']";
 
 
 

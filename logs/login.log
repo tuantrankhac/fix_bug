@@ -4249,3 +4249,259 @@ Driver info: driver.version: RemoteWebDriver
 2024-11-01 14:56:35,356 INFO  Click vào tab bản nháp
 2024-11-01 14:56:35,359 INFO  OS name = windows 11
 2024-11-01 14:56:35,359 INFO  Driver instance name = chromedriver: chrome on windows (a292ec40bca76da117064ebc519077c8)
+2024-11-03 21:02:45,383 INFO  Pre-Condition: Step 01: Open Browser: chrome, URL: https://stg-office.smarthiz.vn/login
+2024-11-03 21:02:50,524 INFO  Step 02: Kiem tra cac thanh phan hien thi
+2024-11-03 21:02:50,609 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:02:50,667 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:02:50,731 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:02:50,793 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:02:50,793 INFO  Step 03: Chon dang nhap voi vai tro Quan tri vien
+2024-11-03 21:02:51,033 INFO  Step 04: Nhap so dien thoai hoac email
+2024-11-03 21:02:51,208 INFO  Step 05: Nhap vao mat khau
+2024-11-03 21:02:51,341 INFO  Step 06: Click vao nut Dang nhap
+2024-11-03 21:02:51,436 INFO  Step 07: Kiem tra dang nhap thanh cong
+2024-11-03 21:02:51,953 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:02:51,954 INFO  Step 08: Mở submenu Luong phe duỵet
+2024-11-03 21:02:56,799 INFO  Click vao button '+ Thêm mới'
+2024-11-03 21:02:58,980 INFO  Click vào nút Người phê duyệt
+2024-11-03 21:02:59,075 INFO  Kiểm tra tên popup hiển thị
+2024-11-03 21:02:59,132 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:02:59,132 INFO  Kiểm tra các thông tin hiển thị
+2024-11-03 21:02:59,214 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:02:59,280 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:02:59,350 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:02:59,435 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:02:59,435 INFO  Click to Lưu button
+2024-11-03 21:03:01,534 INFO  Kiểm tra message bắt buộc hiển thị
+2024-11-03 21:03:01,581 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:03:01,581 INFO  Tìm kiếm và chọn Người phê duyệt
+2024-11-03 21:03:01,918 INFO  Click vào Lưu button
+2024-11-03 21:03:03,048 INFO  Click vào nút Người nhận thông báo
+2024-11-03 21:03:04,180 INFO  Chọn option Người nhận thông báo
+2024-11-03 21:03:10,076 INFO  OS name = windows 11
+2024-11-03 21:03:10,076 INFO  Driver instance name = chromedriver: chrome on windows (5c0a54a8229910062d5bec9c9617dc5e)
+2024-11-03 21:03:10,092 INFO  java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:52539
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-RDLS5V0', ip: '192.168.31.103', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: driver.version: RemoteWebDriver
+2024-11-03 21:06:01,434 INFO  Pre-Condition: Step 01: Open Browser: chrome, URL: https://stg-office.smarthiz.vn/login
+2024-11-03 21:06:04,022 INFO  Step 02: Kiem tra cac thanh phan hien thi
+2024-11-03 21:06:04,131 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:06:04,191 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:06:04,252 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:06:04,314 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:06:04,314 INFO  Step 03: Chon dang nhap voi vai tro Quan tri vien
+2024-11-03 21:06:04,559 INFO  Step 04: Nhap so dien thoai hoac email
+2024-11-03 21:06:04,773 INFO  Step 05: Nhap vao mat khau
+2024-11-03 21:06:04,916 INFO  Step 06: Click vao nut Dang nhap
+2024-11-03 21:06:05,002 INFO  Step 07: Kiem tra dang nhap thanh cong
+2024-11-03 21:06:05,694 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:06:05,694 INFO  Step 08: Mở submenu Luong phe duỵet
+2024-11-03 21:06:10,502 INFO  Click vao button '+ Thêm mới'
+2024-11-03 21:06:12,680 INFO  Click vào nút Người phê duyệt
+2024-11-03 21:06:12,772 INFO  Kiểm tra tên popup hiển thị
+2024-11-03 21:06:12,837 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:06:12,838 INFO  Kiểm tra các thông tin hiển thị
+2024-11-03 21:06:12,900 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:06:12,963 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:06:13,029 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:06:13,102 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:06:13,102 INFO  Click to Lưu button
+2024-11-03 21:06:15,188 INFO  Kiểm tra message bắt buộc hiển thị
+2024-11-03 21:06:15,235 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:06:15,235 INFO  Tìm kiếm và chọn Người phê duyệt
+2024-11-03 21:06:15,574 INFO  Click vào Lưu button
+2024-11-03 21:06:16,697 INFO  Click vào nút Người nhận thông báo
+2024-11-03 21:06:17,846 INFO  Chọn option Người nhận thông báo
+2024-11-03 21:06:38,439 INFO  OS name = windows 11
+2024-11-03 21:06:38,439 INFO  Driver instance name = chromedriver: chrome on windows (201d11613cd9ea01e9ce35664a76c70e)
+2024-11-03 21:08:02,887 INFO  Pre-Condition: Step 01: Open Browser: chrome, URL: https://stg-office.smarthiz.vn/login
+2024-11-03 21:08:05,494 INFO  Step 02: Kiem tra cac thanh phan hien thi
+2024-11-03 21:08:05,622 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:08:05,689 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:08:05,772 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:08:05,838 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:08:05,839 INFO  Step 03: Chon dang nhap voi vai tro Quan tri vien
+2024-11-03 21:08:06,005 INFO  Step 04: Nhap so dien thoai hoac email
+2024-11-03 21:08:06,217 INFO  Step 05: Nhap vao mat khau
+2024-11-03 21:08:06,352 INFO  Step 06: Click vao nut Dang nhap
+2024-11-03 21:08:06,441 INFO  Step 07: Kiem tra dang nhap thanh cong
+2024-11-03 21:08:06,997 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:08:06,997 INFO  Step 08: Mở submenu Luong phe duỵet
+2024-11-03 21:08:11,807 INFO  Click vao button '+ Thêm mới'
+2024-11-03 21:08:13,996 INFO  Click vào nút Người phê duyệt
+2024-11-03 21:08:14,111 INFO  Kiểm tra tên popup hiển thị
+2024-11-03 21:08:14,184 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:08:14,184 INFO  Kiểm tra các thông tin hiển thị
+2024-11-03 21:08:14,249 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:08:14,318 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:08:14,379 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:08:14,444 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:08:14,444 INFO  Click to Lưu button
+2024-11-03 21:08:16,539 INFO  Kiểm tra message bắt buộc hiển thị
+2024-11-03 21:08:16,586 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:08:16,586 INFO  Tìm kiếm và chọn Người phê duyệt
+2024-11-03 21:08:16,949 INFO  Click vào Lưu button
+2024-11-03 21:08:18,052 INFO  Click vào nút Người nhận thông báo
+2024-11-03 21:08:19,195 INFO  Chọn option Người nhận thông báo
+2024-11-03 21:09:37,692 INFO  Pre-Condition: Step 01: Open Browser: chrome, URL: https://stg-office.smarthiz.vn/login
+2024-11-03 21:09:40,161 INFO  Step 02: Kiem tra cac thanh phan hien thi
+2024-11-03 21:09:40,252 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:09:40,310 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:09:40,378 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:09:40,453 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:09:40,453 INFO  Step 03: Chon dang nhap voi vai tro Quan tri vien
+2024-11-03 21:09:40,694 INFO  Step 04: Nhap so dien thoai hoac email
+2024-11-03 21:09:40,894 INFO  Step 05: Nhap vao mat khau
+2024-11-03 21:09:41,029 INFO  Step 06: Click vao nut Dang nhap
+2024-11-03 21:09:41,116 INFO  Step 07: Kiem tra dang nhap thanh cong
+2024-11-03 21:09:41,747 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:09:41,747 INFO  Step 08: Mở submenu Luong phe duỵet
+2024-11-03 21:09:46,520 INFO  Click vao button '+ Thêm mới'
+2024-11-03 21:09:48,702 INFO  Click vào nút Người phê duyệt
+2024-11-03 21:09:48,809 INFO  Kiểm tra tên popup hiển thị
+2024-11-03 21:09:48,882 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:09:48,882 INFO  Kiểm tra các thông tin hiển thị
+2024-11-03 21:09:48,937 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:09:49,006 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:09:49,062 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:09:49,146 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:09:49,147 INFO  Click to Lưu button
+2024-11-03 21:09:51,258 INFO  Kiểm tra message bắt buộc hiển thị
+2024-11-03 21:09:51,305 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:09:51,322 INFO  Tìm kiếm và chọn Người phê duyệt
+2024-11-03 21:09:51,661 INFO  Click vào Lưu button
+2024-11-03 21:09:52,799 INFO  Click vào nút Người nhận thông báo
+2024-11-03 21:09:53,930 INFO  Chọn option Người nhận thông báo
+2024-11-03 21:14:37,399 INFO  Pre-Condition: Step 01: Open Browser: chrome, URL: https://stg-office.smarthiz.vn/login
+2024-11-03 21:14:39,956 INFO  Step 02: Kiem tra cac thanh phan hien thi
+2024-11-03 21:14:40,061 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:14:40,121 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:14:40,182 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:14:40,248 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:14:40,249 INFO  Step 03: Chon dang nhap voi vai tro Quan tri vien
+2024-11-03 21:14:40,501 INFO  Step 04: Nhap so dien thoai hoac email
+2024-11-03 21:14:40,698 INFO  Step 05: Nhap vao mat khau
+2024-11-03 21:14:40,847 INFO  Step 06: Click vao nut Dang nhap
+2024-11-03 21:14:40,926 INFO  Step 07: Kiem tra dang nhap thanh cong
+2024-11-03 21:14:41,654 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:14:41,655 INFO  Step 08: Mở submenu Luong phe duỵet
+2024-11-03 21:14:46,444 INFO  Click vao button '+ Thêm mới'
+2024-11-03 21:14:48,630 INFO  Click vào nút Người phê duyệt
+2024-11-03 21:14:48,736 INFO  Kiểm tra tên popup hiển thị
+2024-11-03 21:14:48,807 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:14:48,807 INFO  Kiểm tra các thông tin hiển thị
+2024-11-03 21:14:48,871 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:14:48,952 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:14:49,036 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:14:49,111 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:14:49,111 INFO  Click to Lưu button
+2024-11-03 21:14:51,201 INFO  Kiểm tra message bắt buộc hiển thị
+2024-11-03 21:14:51,248 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:14:51,248 INFO  Tìm kiếm và chọn Người phê duyệt
+2024-11-03 21:14:51,623 INFO  Click vào Lưu button
+2024-11-03 21:14:52,749 INFO  Click vào nút Người nhận thông báo
+2024-11-03 21:14:53,831 INFO  Chọn option Người nhận thông báo
+2024-11-03 21:25:02,387 INFO  Pre-Condition: Step 01: Open Browser: chrome, URL: https://stg-office.smarthiz.vn/login
+2024-11-03 21:25:04,949 INFO  Step 02: Kiem tra cac thanh phan hien thi
+2024-11-03 21:25:05,062 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:25:05,134 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:25:05,196 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:25:05,257 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:25:05,258 INFO  Step 03: Chon dang nhap voi vai tro Quan tri vien
+2024-11-03 21:25:05,478 INFO  Step 04: Nhap so dien thoai hoac email
+2024-11-03 21:25:05,710 INFO  Step 05: Nhap vao mat khau
+2024-11-03 21:25:05,863 INFO  Step 06: Click vao nut Dang nhap
+2024-11-03 21:25:05,968 INFO  Step 07: Kiem tra dang nhap thanh cong
+2024-11-03 21:25:06,615 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:25:06,615 INFO  Step 08: Mở submenu Luong phe duỵet
+2024-11-03 21:25:11,426 INFO  Click vao button '+ Thêm mới'
+2024-11-03 21:25:13,640 INFO  Click vào nút Người phê duyệt
+2024-11-03 21:25:13,779 INFO  Kiểm tra tên popup hiển thị
+2024-11-03 21:25:13,857 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:25:13,857 INFO  Kiểm tra các thông tin hiển thị
+2024-11-03 21:25:13,916 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:25:13,982 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:25:14,042 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:25:14,107 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:25:14,107 INFO  Click to Lưu button
+2024-11-03 21:25:16,211 INFO  Kiểm tra message bắt buộc hiển thị
+2024-11-03 21:25:16,258 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:25:16,258 INFO  Tìm kiếm và chọn Người phê duyệt
+2024-11-03 21:25:16,521 INFO  Click vào Lưu button
+2024-11-03 21:25:17,668 INFO  Click vào nút Người nhận thông báo
+2024-11-03 21:25:18,810 INFO  Chọn option Người nhận thông báo
+2024-11-03 21:26:38,174 INFO  Pre-Condition: Step 01: Open Browser: chrome, URL: https://stg-office.smarthiz.vn/login
+2024-11-03 21:26:40,815 INFO  Step 02: Kiem tra cac thanh phan hien thi
+2024-11-03 21:26:40,907 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:26:40,983 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:26:41,045 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:26:41,121 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:26:41,122 INFO  Step 03: Chon dang nhap voi vai tro Quan tri vien
+2024-11-03 21:26:41,405 INFO  Step 04: Nhap so dien thoai hoac email
+2024-11-03 21:26:41,628 INFO  Step 05: Nhap vao mat khau
+2024-11-03 21:26:41,784 INFO  Step 06: Click vao nut Dang nhap
+2024-11-03 21:26:41,900 INFO  Step 07: Kiem tra dang nhap thanh cong
+2024-11-03 21:26:42,516 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:26:42,517 INFO  Step 08: Mở submenu Luong phe duỵet
+2024-11-03 21:26:47,279 INFO  Click vao button '+ Thêm mới'
+2024-11-03 21:26:49,457 INFO  Click vào nút Người phê duyệt
+2024-11-03 21:26:49,559 INFO  Kiểm tra tên popup hiển thị
+2024-11-03 21:26:49,631 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:26:49,631 INFO  Kiểm tra các thông tin hiển thị
+2024-11-03 21:26:49,695 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:26:49,761 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:26:49,821 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:26:49,891 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:26:49,891 INFO  Click to Lưu button
+2024-11-03 21:26:52,016 INFO  Kiểm tra message bắt buộc hiển thị
+2024-11-03 21:26:52,063 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:26:52,063 INFO  Tìm kiếm và chọn Người phê duyệt
+2024-11-03 21:26:53,852 INFO  Click vào Lưu button
+2024-11-03 21:26:55,967 INFO  Click vào nút Người nhận thông báo
+2024-11-03 21:26:56,067 INFO  Kiểm tra tên popup hiển thị
+2024-11-03 21:26:56,119 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:26:56,119 INFO  Kiểm tra các thông tin hiển thị
+2024-11-03 21:26:56,169 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:26:56,169 INFO  Click to Lưu button
+2024-11-03 21:26:58,247 INFO  Kiểm message bắt buộc hiển thị
+2024-11-03 21:26:58,295 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:26:58,295 INFO  Chọn option Người nhận thông báo
+2024-11-03 21:26:58,694 INFO  Click vào Lưu button
+2024-11-03 21:32:33,822 INFO  Pre-Condition: Step 01: Open Browser: chrome, URL: https://stg-office.smarthiz.vn/login
+2024-11-03 21:32:36,348 INFO  Step 02: Kiem tra cac thanh phan hien thi
+2024-11-03 21:32:36,458 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:32:36,517 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:32:36,578 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:32:36,685 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:32:36,686 INFO  Step 03: Chon dang nhap voi vai tro Quan tri vien
+2024-11-03 21:32:36,853 INFO  Step 04: Nhap so dien thoai hoac email
+2024-11-03 21:32:37,054 INFO  Step 05: Nhap vao mat khau
+2024-11-03 21:32:37,188 INFO  Step 06: Click vao nut Dang nhap
+2024-11-03 21:32:37,272 INFO  Step 07: Kiem tra dang nhap thanh cong
+2024-11-03 21:32:37,945 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:32:37,946 INFO  Step 08: Mở submenu Luong phe duỵet
+2024-11-03 21:32:42,745 INFO  Click vao button '+ Thêm mới'
+2024-11-03 21:32:44,945 INFO  Click vào nút Người phê duyệt
+2024-11-03 21:32:45,051 INFO  Kiểm tra tên popup hiển thị
+2024-11-03 21:32:45,126 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:32:45,126 INFO  Kiểm tra các thông tin hiển thị
+2024-11-03 21:32:45,194 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:32:45,280 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:32:45,386 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:32:45,478 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:32:45,479 INFO  Click to Lưu button
+2024-11-03 21:32:47,625 INFO  Kiểm tra message bắt buộc hiển thị
+2024-11-03 21:32:47,672 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:32:47,672 INFO  Tìm kiếm và chọn Người phê duyệt
+2024-11-03 21:32:49,352 INFO  Click vào Lưu button
+2024-11-03 21:32:51,440 INFO  Click vào nút Người nhận thông báo
+2024-11-03 21:32:51,552 INFO  Kiểm tra tên popup hiển thị
+2024-11-03 21:32:51,608 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:32:51,608 INFO  Kiểm tra các thông tin hiển thị
+2024-11-03 21:32:51,658 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:32:51,658 INFO  Click to Lưu button
+2024-11-03 21:32:53,753 INFO  Kiểm message bắt buộc hiển thị
+2024-11-03 21:32:53,800 INFO  ---------------------- Passed -----------------------
+2024-11-03 21:32:53,815 INFO  Chọn option Người nhận thông báo
+2024-11-03 21:32:54,123 INFO  Click vào Lưu button

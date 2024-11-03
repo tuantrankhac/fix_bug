@@ -487,10 +487,10 @@ Cau_Hinh_Luong_Phe_Duyet extends BaseTest {
         verifyEquals(luongPheDuyetPO.pheDuyetNewlyIsDisplayedInListByName(),tenPheDuyet);
     }
 
-    @AfterClass(alwaysRun = true)
-    public void afterClass() {
-        cleanBrowserAndDriver();
-    }
+    //@AfterClass(alwaysRun = true)
+    //public void afterClass() {
+    //    cleanBrowserAndDriver();
+    //}
 
     WebDriver driver;
     DangNhapPO dangNhapPO;

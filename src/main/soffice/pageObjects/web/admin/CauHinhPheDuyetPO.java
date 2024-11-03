@@ -6,8 +6,11 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import pageUIs.web.admin.CauHinhPheDuyetPageUI;
+import utilities.StringUtil;
 
 import java.util.List;
+
+import static utilities.StringUtil.parseStringToObject;
 
 public class CauHinhPheDuyetPO extends BasePage {
     WebDriver driver;
@@ -182,13 +185,9 @@ public class CauHinhPheDuyetPO extends BasePage {
         clickToElement(driver, CauHinhPheDuyetPageUI.DROPDOWN_NGUOI_PHE_DUYET);
         waitForElementVisible(driver, CauHinhPheDuyetPageUI.SEARCH_NGUOI_PHE_DUYET_TEXTBOX);
         sendkeyToElement(driver, CauHinhPheDuyetPageUI.SEARCH_NGUOI_PHE_DUYET_TEXTBOX, textSearch);
-        List <WebElement> users = getListWebElement(driver, CauHinhPheDuyetPageUI.LIST_NGUOI_PHE_DUYET);
-        for (WebElement user: users){
-            if(user.getText().contains(nameNguoiPheDuyet)){
-                user.click();
-                break;
-            }
-        }
+
+        parseStringToObject(CauHinhPheDuyetPageUI.NGUOI_PHE_DUYET,nameNguoiPheDuyet);
+        clickToElement(driver, parseStringToObject(CauHinhPheDuyetPageUI.NGUOI_PHE_DUYET,nameNguoiPheDuyet));
     }
 
     public boolean nguoiNhanThongBaoIsDisplayed() {
@@ -202,14 +201,14 @@ public class CauHinhPheDuyetPO extends BasePage {
         clickToElement(driver, CauHinhPheDuyetPageUI.DROPDOWN_NGUOI_NHAN_TB);
         waitForElementVisible(driver, CauHinhPheDuyetPageUI.SEARCH_NGUOI_NHAN_TB_TEXTBOX);
         sendkeyToElement(driver, CauHinhPheDuyetPageUI.SEARCH_NGUOI_NHAN_TB_TEXTBOX, textSearch);
-        List<WebElement> users = getListWebElement(driver, CauHinhPheDuyetPageUI.LIST_NGUOI_PHE_DUYET);
-        for (WebElement user:users){
-            if(user.getText().equals(nameUser)){
-                JavascriptExecutor js = (JavascriptExecutor) driver;
-                js.executeScript("arguments[0].click();", user);
-                break;
-            }
-        }
+//       // List<WebElement> users = getListWebElement(driver, CauHinhPheDuyetPageUI.LIST_NGUOI_PHE_DUYET);
+//        for (WebElement user:users){
+//            if(user.getText().equals(nameUser)){
+//                JavascriptExecutor js = (JavascriptExecutor) driver;
+//                js.executeScript("arguments[0].click();", user);
+//                break;
+//            }
+//        }
     }
 
     public void closePopupChonPhongBan() {
