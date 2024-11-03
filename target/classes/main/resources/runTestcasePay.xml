@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="VT">
+  <parameter name="url" value="https://viettel.vn/vx/" />
+  <test name="Run on Chrome">
+    <parameter name = "browser" value="chrome"/>
+    <classes>
+      <class name="testSuites.Mua_The_Cao"/>
+    </classes>
+  </test>
+</suite>

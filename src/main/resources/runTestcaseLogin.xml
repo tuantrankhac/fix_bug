@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="S-Office">
+  <parameter name="url" value="STG" />
+  <test name="Run on Chrome">
+    <parameter name = "browser" value="chrome"/>
+    <classes>
+      <class name = "testSuites.Login_With_Phone_Number"/>
+    </classes>
+  </test>
+</suite>
